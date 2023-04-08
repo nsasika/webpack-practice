@@ -10,9 +10,9 @@ module.exports = {
         publicPath: '/',
         filename: 'bundle.js'
     },
-    devServer: {
-        contentBase: "./build"
-    },
+    // devServer: {
+    //     contentBase: "./build"
+    // },
     //Setup loaders
     module: {
         rules: [
